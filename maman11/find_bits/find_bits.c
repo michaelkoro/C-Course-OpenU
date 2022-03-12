@@ -22,6 +22,7 @@ int main()
     scanf("%lu", &y);
 
     /* Calculating and printing the result */
+    printf("The numbers you entered are %lu and %lu\n", x, y);
     printf("Nubmer of matching turned on bits is: %d\n", count_bits(x, y));
     return 0;
 }
