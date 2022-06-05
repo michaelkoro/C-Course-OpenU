@@ -1,0 +1,14 @@
+C is an imperative procedural language supporting
+ structured programming, lexical variable scope, 
+and recursion, with a static type system. It was 
+designed to be compiled to provide low-level acce
+ss to memory and language constructs that map eff
+iciently to machine instructions, all with minima
+l runtime support. Despite its low-level capabili
+ties, the language was designed to encourage cros
+s-platform programming. A standards-compliant C p
+rogram written with portability in mind can be co
+mpiled for a wide variety of computer platforms a
+nd operating systems with few changes to its sour
+ce code.
+
